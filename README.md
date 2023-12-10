@@ -1,3 +1,11 @@
+<style>
+  body {
+    background-color: #1E1E1E; /* Set the background color to black */
+    color: #FFFFFF; /* Set the text color to white */
+  }
+
+  /* Add more styles as needed */
+</style>
 # 💫 About Me:
 🔭 I’m currently working on Self Improvement<br>🌱 I’m currently learning ReactJs and NextJs<br> 👯 I’m looking to collaborate on Semantic Web projects<br>🤔 I’m looking for help with Revolutionary Web projects<br>💬 Ask me about NodeJs, CSS3, Bootstrap, ExpressJs ,HTML5 ,ES6JS , MONGODB, SQL ,DOM<br>📫 How to reach me: divyanshusrivastava.987@gmail.com<br>⚡ Fun fact: Did You Know the term "404" in web development originates from a room number at CERN? Hahaha i told u
 
