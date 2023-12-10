@@ -1,7 +1,20 @@
 # 💫 About Me:
 🔭 I’m currently working on Self Improvement<br>🌱 I’m currently learning ReactJs and NextJs<br> 👯 I’m looking to collaborate on Semantic Web projects<br>🤔 I’m looking for help with Revolutionary Web projects<br>💬 Ask me about NodeJs, CSS3, Bootstrap, ExpressJs ,HTML5 ,ES6JS , MONGODB, SQL ,DOM<br>📫 How to reach me: divyanshusrivastava.987@gmail.com<br>⚡ Fun fact: Did You Know the term "404" in web development originates from a room number at CERN? Hahaha i told u
 
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/PAqxEVJt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/divyanshu.srivastava.12914) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ddivyanshuuu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-srivastava-032748209/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BadmeinTown) 
 
