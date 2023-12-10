@@ -2,13 +2,6 @@
 🔭 I’m currently working on Self Improvement<br>🌱 I’m currently learning ReactJs and NextJs<br> 👯 I’m looking to collaborate on Semantic Web projects<br>🤔 I’m looking for help with Revolutionary Web projects<br>💬 Ask me about NodeJs, CSS3, Bootstrap, ExpressJs ,HTML5 ,ES6JS , MONGODB, SQL ,DOM<br>📫 How to reach me: divyanshusrivastava.987@gmail.com<br>⚡ Fun fact: Did You Know the term "404" in web development originates from a room number at CERN? Hahaha i told u
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-###
 
 <br clear="both">
 
