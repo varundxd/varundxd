@@ -15,9 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=varundxd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://ronreiter-meme-generator.p.rapidapi.com/meme?font_size=50&top=Top%20Text&font=Impact&bottom=Bottom%20Text&meme=Condescending-Wonka' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=varundxd&icon=0&color=11)](https://visitcount.itsvg.in)
 
