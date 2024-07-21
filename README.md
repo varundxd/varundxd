@@ -16,7 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=varundxd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://api.memegen.link/images/custom' style="height: 400px;"/>
+<img src='https://meme-api.com/gimme' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=varundxd&icon=0&color=11)](https://visitcount.itsvg.in)
