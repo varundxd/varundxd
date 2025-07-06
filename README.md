@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> Loading today’s fact...
+> 💡 The first email ever sent was by Ray Tomlinson in 1971 — it was just "QWERTYUIOP".
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
