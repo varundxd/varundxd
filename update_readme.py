@@ -7,15 +7,19 @@ with open("fun_facts.txt", "r", encoding="utf-8") as f:
 # Pick a random fact
 selected_fact = random.choice(facts)
 
-# Read README.md
+# Read README
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-# Replace placeholder section
+# Replace between markers
 start = "<!--START_FUN_FACT-->"
 end = "<!--END_FUN_FACT-->"
-new_content = content.split(start)[0] + start + "\n" + f"> 💡 {selected_fact}\n" + end + content.split(end)[1]
+before = content.split(start)[0]
+after = content.split(end)[1]
 
-# Write back updated content
+new_section = f"{start}\n> 💡 {selected_fact}\n{end}"
+updated = before + new_section + after
+
+# Save
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_content)
+    f.write(updated)
