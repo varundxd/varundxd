@@ -75,9 +75,21 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=varundxd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=varundxd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varundxd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=varundxd&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varundxd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varundxd&theme=dark&hide_border=false" />
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=varundxd&limit=5&theme=dark&combine_all_yearly_contributions=true)
