@@ -88,7 +88,9 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varundxd&theme=dark&hide_border=false" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varundxd&theme=dark&hide_border=false" />
+</div>
 
 
 ### 🔝 Top Contributed Repo
