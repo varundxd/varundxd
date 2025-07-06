@@ -13,7 +13,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 - 📈 Self-Improvement, open-source collaboration, and refining backend system design
 - 🌱 Learning React.js, Next.js, and advanced ML techniques  
 - 🤝 Open to collaborations on Semantic Web & AI/ML-driven web projects  
-- ❓ Ask me about: Node.js, Express.js, MongoDB, SQL, HTML5, CSS3, Bootstrap, ES6, DOM, REST APIs  
+- ❓ Ask me about: C++, Python, Node.js, Express.js, Next.js, MongoDB, SQL, HTML5, CSS3, Bootstrap, ES6, DOM, REST APIs, FAST APIs  
 
 ---
 
