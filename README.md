@@ -98,7 +98,9 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=varundxd&icon=0&color=11)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/varundxd/count.svg" alt="Visitor Count" />
+</div>
 
 ---
 
