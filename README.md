@@ -94,12 +94,10 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=varundxd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/varundxd/count.svg" alt="Visitor Count" />
+
+ <img src="https://github-contributor-stats.vercel.app/api?username=varundxd&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
 </div>
 
 ---
