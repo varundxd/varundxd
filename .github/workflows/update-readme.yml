@@ -25,9 +25,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git config user.name "varundxd"
-          git config user.email "varundxd@users.noreply.github.com"
+          git config --global user.name "varundxd"
+          git config --global user.email "varundxd@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/varundxd/varundxd.git
           git add README.md
           git commit -m "🔄 auto: update daily fun fact" || echo "No changes to commit"
-          git push https://x-access-token:${GH_TOKEN}@github.com/varundxd/varundxd.git HEAD:main
-
+          git push origin HEAD:main
