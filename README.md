@@ -94,10 +94,18 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=varundxd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=varundxd&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=varundxd&icon=0&color=11)](https://visitcount.itsvg.in)
+
+### 👁️ Visitor Count
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=varundxd&icon=0&color=11" alt="Visitor Count"/>
+  </a>
+</div>
+
+---
 
   ## 💰 You can help me by Donating
  <div align="center">
