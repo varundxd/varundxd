@@ -2,12 +2,13 @@ name: 🧠 Update Daily Fun Fact
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -17,9 +18,8 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run update_readme.py
-        run: |
-          python update_readme.py
+      - name: Run script
+        run: python update_readme.py
 
       - name: Commit & Push changes
         run: |
@@ -28,3 +28,4 @@ jobs:
           git add README.md
           git commit -m "🔄 auto: update daily fun fact"
           git push
+
