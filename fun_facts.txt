@@ -1,0 +1,56 @@
+The first computer bug was an actual moth found in a Harvard Mark II computer in 1947.
+Python was named after the comedy group “Monty Python,” not the snake.
+The first website ever created is still online: http://info.cern.ch.
+Linus Torvalds created Git in 2005 to manage Linux kernel development.
+"Hello, World!" was first used in a 1972 Bell Labs internal memo by Brian Kernighan.
+The original name for Java was "Oak."
+Tim Berners-Lee invented the World Wide Web in 1989.
+There are over 700 programming languages in the world.
+The term "debugging" was popularized by Grace Hopper.
+Donald Knuth is one of the most influential figures in computer science.
+The term “cloud computing” was coined in 2006 by Eric Schmidt of Google.
+C++ was created as an extension of C to support object-oriented programming.
+The Stack Overflow website was launched in 2008.
+GitHub was launched in 2008 and acquired by Microsoft in 2018.
+Linux powers most of the world’s servers and smartphones (via Android).
+Ada Lovelace is considered the world’s first computer programmer.
+The first iPhone didn’t have copy-paste functionality.
+The first computer programmer lived in the 1800s — long before computers existed.
+The word "algorithm" comes from the Persian mathematician Al-Khwarizmi.
+In binary, the number 8 is written as 1000.
+JavaScript was created in just 10 days by Brendan Eich in 1995.
+Machine Learning is a subset of Artificial Intelligence.
+The "404 Not Found" error refers to a missing web page, but some say it originated from Room 404 at CERN.
+The default port for HTTP is 80 and for HTTPS is 443.
+The first version of Microsoft Windows was released in 1985.
+The first email ever sent was by Ray Tomlinson in 1971 — it was just "QWERTYUIOP".
+Y2K (Year 2000 bug) cost companies billions in preventive software updates.
+Every time you search on Google, it uses hundreds of servers in data centers.
+A stack is a Last-In-First-Out (LIFO) data structure.
+JavaScript and Java are completely unrelated languages.
+The average developer writes around 50 lines of functional code per day.
+OpenAI’s GPT-3 model has 175 billion parameters.
+COBOL still powers many banks and government systems.
+The first hard drive was made by IBM in 1956 and weighed over a ton.
+The term "full stack" means working on both front-end and back-end of web development.
+The semicolon (`;`) is optional in JavaScript — but not in C++ or Java.
+The concept of Object-Oriented Programming was first introduced in the 1960s.
+The Raspberry Pi was originally intended for kids to learn programming.
+HTML is not a programming language — it’s a markup language.
+Hackers once used printer vulnerabilities to play music from printers.
+Mark Zuckerberg built the first version of Facebook in just 2 weeks.
+SQL was originally called SEQUEL (Structured English Query Language).
+The first video game was created in 1958 — “Tennis for Two” on an oscilloscope.
+Elon Musk co-founded Zip2, X.com (which became PayPal), then moved into SpaceX and Tesla.
+The Python Zen includes principles like “Simple is better than complex” and “Readability counts.”
+The Fibonacci sequence appears in many algorithms and coding challenges.
+Developers who use dark mode are statistically more productive (and cooler 😎).
+The software industry changes faster than almost any other profession.
+Regex (Regular Expressions) was invented in the 1950s and is still painful today.
+Recursion is a method where the solution depends on solving smaller instances of the same problem.
+Programming is 10% writing code and 90% debugging.
+Haskell is named after the logician Haskell Curry.
+The "null" reference is considered by many as the "billion-dollar mistake."
+Developers have Stack Overflow open in at least 2 tabs at all times.
+Compilers are some of the most complex software programs ever created.
+The first Mac computer was released in 1984.
