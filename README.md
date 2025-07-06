@@ -1,6 +1,46 @@
 # 💫 About Me:
-🔭 I’m currently working on Self Improvement<br>🌱 I’m currently learning ReactJs and NextJs<br> 👯 I’m looking to collaborate on Semantic Web projects<br>🤔 I’m looking for help with Revolutionary Web projects<br>💬 Ask me about NodeJs, CSS3, Bootstrap, ExpressJs ,HTML5 ,ES6JS , MONGODB, SQL ,DOM<br>📫 How to reach me: divyanshusrivastava.987@gmail.com<br>⚡ Fun fact: Did You Know the term "404" in web development originates from a room number at CERN? Hahaha i told u
 
+🎓 B.Tech in Information Technology from BPIT (2020–2024)  
+👨‍💻 Passionate Backend Developer | Aspiring Data Scientist | Lifelong Learner  
+
+I’m a results-driven developer with a solid grasp of Data Structures & Algorithms and a deep passion for scalable backend systems and intelligent data solutions. My core skills lie in building efficient server-side applications using **Node.js**, **Express.js**, and **FastAPI**, with a growing expertise in **React.js** and **Next.js** for frontend integration.
+
+I started my journey with **C++** and **Python**, and along the way, I've explored a wide range of technologies from **MongoDB** to **Machine Learning** libraries. Currently, I'm diving deeper into the **Semantic Web** and AI-powered applications.
+
+---
+
+### 🚀 Currently Working On:
+- 📈 Self-Improvement, open-source collaboration, and refining backend system design
+- 🌱 Learning React.js, Next.js, and advanced ML techniques  
+- 🤝 Open to collaborations on Semantic Web & AI/ML-driven web projects  
+- ❓ Ask me about: Node.js, Express.js, MongoDB, SQL, HTML5, CSS3, Bootstrap, ES6, DOM, REST APIs  
+
+---
+
+### 💻 Tech Focus & Interests:
+- **Programming:** C++, Python  
+- **Backend:** Node.js, Express.js, FastAPI  
+- **Frontend:** React.js, Next.js  
+- **Databases:** MongoDB, MySQL  
+- **Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn  
+- **Web Scraping:** Selenium, BeautifulSoup  
+- **AI/ML (Learning Stage):** Supervised Learning, Exploratory Data Analysis, Model Building  
+- **Developer Tools:** Git, Postman, VS Code  
+
+---
+
+### 📫 How to Reach Me:
+📧 divyanshusrivastava.987@gmail.com
+
+---
+
+### 🧠 Problem Solving Profiles:
+- 💡 LeetCode: [leetcode.com/u/varundxd21](https://leetcode.com/u/varundxd21)  
+- ⚔️ Codeforces: [codeforces.com/profile/divyanshusrivastava.987](https://codeforces.com/profile/divyanshusrivastava.987)  
+- 📚 GeeksforGeeks: [geeksforgeeks.org/user/divyanshusrivastava987](https://www.geeksforgeeks.org/user/divyanshusrivastava987)  
+- 🎯 HackerRank: [hackerrank.com/profile/divyanshusrivas5](https://www.hackerrank.com/profile/divyanshusrivas5)
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/PAqxEVJt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/divyanshu.srivastava.12914) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ddivyanshuuu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-srivastava-032748209/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BadmeinTown) 
