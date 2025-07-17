@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 In binary, the number 8 is written as 1000.
+> 💡 The semicolon (`;`) is optional in JavaScript — but not in C++ or Java.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
