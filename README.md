@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 JavaScript was created in just 10 days by Brendan Eich in 1995.
+> 💡 The first iPhone didn’t have copy-paste functionality.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
