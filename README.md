@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The Raspberry Pi was originally intended for kids to learn programming.
+> 💡 There are over 700 programming languages in the world.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
