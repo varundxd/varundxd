@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 C++ was created as an extension of C to support object-oriented programming.
+> 💡 The first website ever created is still online: http://info.cern.ch.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
