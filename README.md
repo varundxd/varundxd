@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first email ever sent was by Ray Tomlinson in 1971 — it was just "QWERTYUIOP".
+> 💡 A stack is a Last-In-First-Out (LIFO) data structure.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
