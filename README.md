@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first iPhone didn’t have copy-paste functionality.
+> 💡 Python was named after the comedy group “Monty Python,” not the snake.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
