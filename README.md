@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 "Hello, World!" was first used in a 1972 Bell Labs internal memo by Brian Kernighan.
+> 💡 Haskell is named after the logician Haskell Curry.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
