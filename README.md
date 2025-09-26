@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The term "full stack" means working on both front-end and back-end of web development.
+> 💡 The first website ever created is still online: http://info.cern.ch.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
