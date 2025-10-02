@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 There are over 700 programming languages in the world.
+> 💡 The first Mac computer was released in 1984.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
