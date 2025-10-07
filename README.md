@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The semicolon (`;`) is optional in JavaScript — but not in C++ or Java.
+> 💡 The average developer writes around 50 lines of functional code per day.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
