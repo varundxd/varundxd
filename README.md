@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Developers have Stack Overflow open in at least 2 tabs at all times.
+> 💡 The first iPhone didn’t have copy-paste functionality.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
