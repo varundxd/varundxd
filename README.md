@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Regex (Regular Expressions) was invented in the 1950s and is still painful today.
+> 💡 The concept of Object-Oriented Programming was first introduced in the 1960s.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
