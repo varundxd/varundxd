@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 JavaScript was created in just 10 days by Brendan Eich in 1995.
+> 💡 Compilers are some of the most complex software programs ever created.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
