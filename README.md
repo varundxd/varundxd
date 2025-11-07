@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The term "debugging" was popularized by Grace Hopper.
+> 💡 "Hello, World!" was first used in a 1972 Bell Labs internal memo by Brian Kernighan.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
