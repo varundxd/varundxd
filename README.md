@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 OpenAI’s GPT-3 model has 175 billion parameters.
+> 💡 Every time you search on Google, it uses hundreds of servers in data centers.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
