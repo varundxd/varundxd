@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 JavaScript and Java are completely unrelated languages.
+> 💡 The Stack Overflow website was launched in 2008.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
