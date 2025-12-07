@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The term "debugging" was popularized by Grace Hopper.
+> 💡 Haskell is named after the logician Haskell Curry.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
