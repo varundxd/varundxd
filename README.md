@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first Mac computer was released in 1984.
+> 💡 COBOL still powers many banks and government systems.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
