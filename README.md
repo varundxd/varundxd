@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The "null" reference is considered by many as the "billion-dollar mistake."
+> 💡 The term "debugging" was popularized by Grace Hopper.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
