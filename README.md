@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The Raspberry Pi was originally intended for kids to learn programming.
+> 💡 The word "algorithm" comes from the Persian mathematician Al-Khwarizmi.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
