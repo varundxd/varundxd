@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The word "algorithm" comes from the Persian mathematician Al-Khwarizmi.
+> 💡 The first version of Microsoft Windows was released in 1985.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
