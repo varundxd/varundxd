@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Recursion is a method where the solution depends on solving smaller instances of the same problem.
+> 💡 Haskell is named after the logician Haskell Curry.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
