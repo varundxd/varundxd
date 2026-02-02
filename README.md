@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Linux powers most of the world’s servers and smartphones (via Android).
+> 💡 JavaScript and Java are completely unrelated languages.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
