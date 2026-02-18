@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Linus Torvalds created Git in 2005 to manage Linux kernel development.
+> 💡 A stack is a Last-In-First-Out (LIFO) data structure.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
