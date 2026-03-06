@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 SQL was originally called SEQUEL (Structured English Query Language).
+> 💡 Compilers are some of the most complex software programs ever created.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
