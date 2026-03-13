@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Developers who use dark mode are statistically more productive (and cooler 😎).
+> 💡 HTML is not a programming language — it’s a markup language.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
