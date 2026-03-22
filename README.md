@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first computer programmer lived in the 1800s — long before computers existed.
+> 💡 Programming is 10% writing code and 90% debugging.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
