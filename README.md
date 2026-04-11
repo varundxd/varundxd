@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Donald Knuth is one of the most influential figures in computer science.
+> 💡 HTML is not a programming language — it’s a markup language.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
