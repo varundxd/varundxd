@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 HTML is not a programming language — it’s a markup language.
+> 💡 The first Mac computer was released in 1984.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
