@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The "null" reference is considered by many as the "billion-dollar mistake."
+> 💡 C++ was created as an extension of C to support object-oriented programming.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
