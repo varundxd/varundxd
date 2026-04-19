@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first website ever created is still online: http://info.cern.ch.
+> 💡 Hackers once used printer vulnerabilities to play music from printers.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
