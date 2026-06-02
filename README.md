@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first iPhone didn’t have copy-paste functionality.
+> 💡 JavaScript and Java are completely unrelated languages.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
