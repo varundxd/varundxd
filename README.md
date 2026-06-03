@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 JavaScript and Java are completely unrelated languages.
+> 💡 The "null" reference is considered by many as the "billion-dollar mistake."
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
