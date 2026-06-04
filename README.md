@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The "null" reference is considered by many as the "billion-dollar mistake."
+> 💡 Regex (Regular Expressions) was invented in the 1950s and is still painful today.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
