@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Recursion is a method where the solution depends on solving smaller instances of the same problem.
+> 💡 COBOL still powers many banks and government systems.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
