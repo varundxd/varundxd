@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first hard drive was made by IBM in 1956 and weighed over a ton.
+> 💡 The Fibonacci sequence appears in many algorithms and coding challenges.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
