@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 JavaScript was created in just 10 days by Brendan Eich in 1995.
+> 💡 Y2K (Year 2000 bug) cost companies billions in preventive software updates.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
