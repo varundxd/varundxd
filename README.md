@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The term "full stack" means working on both front-end and back-end of web development.
+> 💡 The Fibonacci sequence appears in many algorithms and coding challenges.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
