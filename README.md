@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Python was named after the comedy group “Monty Python,” not the snake.
+> 💡 Tim Berners-Lee invented the World Wide Web in 1989.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
