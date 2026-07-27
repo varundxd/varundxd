@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Y2K (Year 2000 bug) cost companies billions in preventive software updates.
+> 💡 The Fibonacci sequence appears in many algorithms and coding challenges.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
