@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The software industry changes faster than almost any other profession.
+> 💡 Ada Lovelace is considered the world’s first computer programmer.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
