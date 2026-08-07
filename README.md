@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The "404 Not Found" error refers to a missing web page, but some say it originated from Room 404 at CERN.
+> 💡 Compilers are some of the most complex software programs ever created.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
