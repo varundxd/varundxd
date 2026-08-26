@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The "null" reference is considered by many as the "billion-dollar mistake."
+> 💡 Developers have Stack Overflow open in at least 2 tabs at all times.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
