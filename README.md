@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Every time you search on Google, it uses hundreds of servers in data centers.
+> 💡 Mark Zuckerberg built the first version of Facebook in just 2 weeks.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
