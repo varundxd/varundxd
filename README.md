@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 JavaScript and Java are completely unrelated languages.
+> 💡 Machine Learning is a subset of Artificial Intelligence.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
