@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The Python Zen includes principles like “Simple is better than complex” and “Readability counts.”
+> 💡 The first website ever created is still online: http://info.cern.ch.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
