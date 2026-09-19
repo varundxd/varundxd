@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The term “cloud computing” was coined in 2006 by Eric Schmidt of Google.
+> 💡 The Stack Overflow website was launched in 2008.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
