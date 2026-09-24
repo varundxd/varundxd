@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Elon Musk co-founded Zip2, X.com (which became PayPal), then moved into SpaceX and Tesla.
+> 💡 Linux powers most of the world’s servers and smartphones (via Android).
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
