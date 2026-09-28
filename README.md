@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 JavaScript was created in just 10 days by Brendan Eich in 1995.
+> 💡 The first computer programmer lived in the 1800s — long before computers existed.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
