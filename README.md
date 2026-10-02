@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first computer bug was an actual moth found in a Harvard Mark II computer in 1947.
+> 💡 Every time you search on Google, it uses hundreds of servers in data centers.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
