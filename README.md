@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 JavaScript and Java are completely unrelated languages.
+> 💡 Regex (Regular Expressions) was invented in the 1950s and is still painful today.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
