@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Programming is 10% writing code and 90% debugging.
+> 💡 GitHub was launched in 2008 and acquired by Microsoft in 2018.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
