@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Linus Torvalds created Git in 2005 to manage Linux kernel development.
+> 💡 The first video game was created in 1958 — “Tennis for Two” on an oscilloscope.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
