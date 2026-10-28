@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 COBOL still powers many banks and government systems.
+> 💡 OpenAI’s GPT-3 model has 175 billion parameters.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
