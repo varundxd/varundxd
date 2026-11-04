@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The concept of Object-Oriented Programming was first introduced in the 1960s.
+> 💡 COBOL still powers many banks and government systems.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
