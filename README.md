@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first video game was created in 1958 — “Tennis for Two” on an oscilloscope.
+> 💡 Ada Lovelace is considered the world’s first computer programmer.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
