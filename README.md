@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 Programming is 10% writing code and 90% debugging.
+> 💡 There are over 700 programming languages in the world.
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
