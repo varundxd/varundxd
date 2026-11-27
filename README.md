@@ -44,7 +44,7 @@ I started my journey with **C++** and **Python**, and along the way, I've explor
 
 ### ⚡ Fun Fact of the Day  
 <!--START_FUN_FACT-->
-> 💡 The first computer programmer lived in the 1800s — long before computers existed.
+> 💡 Developers who use dark mode are statistically more productive (and cooler 😎).
 <!--END_FUN_FACT-->
 
 ## 🌐 Socials:
